@@ -1,2 +1,0 @@
-# hellogit
-Primer repositori(README)
